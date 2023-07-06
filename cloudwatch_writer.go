@@ -10,7 +10,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/cloudwatchlogs"
 	"github.com/pkg/errors"
-	"gopkg.in/oleiade/lane.v1"
+	"gopkg.in/oleiade/lane"
 )
 
 const (
