@@ -1,4 +1,4 @@
-module github.com/mec07/cloudwatchwriter
+module github.com/bharrelldev/cloudwatchwriter
 
 go 1.14
 
